@@ -27,7 +27,6 @@ Outputs:
 - Exported Excel file with top SHAP features
 
 Adapt the file paths before running. 
-License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 """
 import os
 import tkinter as tk
