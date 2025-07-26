@@ -6,7 +6,6 @@ email: biplobforestry@gmail.com
 version: 1.5
 project: Multi-stress interaction effects on BVOC emission fingerprints from oak and beech:
          A cross-investigation using Machine Learning and Positive Matrix Factorization
-Creative Commons Attribution 4.0 International (CC BY 4.0)
 """
 # PMF Validation Script for BVOC Data
 # -----------------------------------
