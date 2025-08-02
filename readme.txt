@@ -48,16 +48,6 @@ This repository contains code for analyzing stress-specific volatile organic com
 
 ---
 
-This project is licensed under the [**Creative Commons Attribution 4.0 International (CC BY 4.0)**](https://creativecommons.org/licenses/by/4.0/).  
-You are free to use, modify, and distribute this code **with appropriate credit** to the original author.
-
----
-
-If you use this code in your research, please cite:
-
-> Dey et al. (2025), Biogeosciences
-
----
 
 This project was developed within the Biogenic Emissions and Air Quality Impacts group, led by Dr. Eva Pfannerstill at Forschungszentrum Jülich. The group focuses on understanding the role of biogenic volatile organic compounds (BVOCs) in plant–atmosphere interactions and their implications for air quality and climate.
 
@@ -72,4 +62,5 @@ For questions, suggestions, or collaborations, please contact:
 
 [biplobforestry@gmail.com]
 [b.dey@fz-juelich.de]
+
 
